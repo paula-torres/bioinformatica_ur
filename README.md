@@ -9,4 +9,4 @@ Para instalar la interaz de Ubuntu en Windows pueden seguir estas [instrucciones
 
 Ahora bien, en la parte superior encontrarán la sección [Wiki](https://github.com/paula-torres/bioinformatica_ur/wiki), ahí trabajaremos todos los temas de la parte práctica.
 
-Recuerden que cualquier cosa pueden contactarme al correo institucional (paula.torres@urosario.edu.co)
+Recuerden que cualquier cosa pueden contactarme al correo institucional (paula.torres@urosario.edu.co).
